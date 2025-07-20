@@ -2,6 +2,7 @@
 A simple web application built with Python, Scikit-learn, and Gradio that recognizes handwritten digits (0–9) from either an uploaded image or drawing canvas.
 Features
 #Features
+
 🎨 Real-time Prediction – Draw a digit directly on the canvas and see the model's prediction instantly.
 
 📤 Image Upload – Upload an image of a handwritten digit to classify it.
