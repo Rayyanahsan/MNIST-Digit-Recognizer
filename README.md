@@ -17,7 +17,7 @@ How to Run
 Clone this repo:
 
 
-git clone https://github.com/yourusername/MNIST-Digit-Recognizer.git
+git clone 
 Go to the project folder:
 
 
